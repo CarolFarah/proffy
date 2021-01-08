@@ -1,4 +1,4 @@
-<h1 align="center">Proffy Web</h1>
+<h1 align="center">Proffy</h1>
 
 ## 📋 Index
 - [About](#-About)
