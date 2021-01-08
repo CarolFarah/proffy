@@ -45,7 +45,7 @@ In addition, it is good to have an editor to work with the code like [VSCode] (h
 ## ⌨ How to clone and run the project
 ```bash
 # Clone the repository
-git clone https://github.com/riccomoura/proffy-web
+git clone https://github.com/carolfarah/proffy
 # Enter directory
 cd proffy-web
 # Download dependencies
